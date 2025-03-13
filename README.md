@@ -1,0 +1,1 @@
+# pwd-strength-checker1
